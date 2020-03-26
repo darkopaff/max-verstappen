@@ -6,9 +6,22 @@ body, html {
     background-size: cover;
 }
 
-.footer {
-	background: rgba(255, 247, 246, 0.3)
-	border: 1px;
+#pocetna {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+#aboutheader {
+	border: 1px solid grey;
+	border-radius: 11px;
+	background-color: rgba(255, 247, 246, 0.3);
+	margin: 15px;
+}
+
+#footer {
+	border: 1px solid grey;
 	border-style: none;
 	border-radius: 40px;
 }
@@ -22,6 +35,18 @@ body, html {
 }
 
 #uvod {
-	font-family:'Baloo Da 2', cursive;
-
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 35px;
+	color: #8B0305;
 }
+
+#pocetnarecenica {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 5px;
+}
+
+
+
+
