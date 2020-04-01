@@ -69,6 +69,39 @@ button:hover {
     color: #8B0305;
 }
 
+.podiums {
+	list-style: numbered inside;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 1.5rem;
+	border: 1px solid #5b00008f;
+    border-radius: 11px;
+	background-color: rgba(0, 0, 0, 0.83);	
+	padding-top: 20px;
+    padding-right: 50px;
+    padding-left: 60px;
+}
+
+.p3 {
+	color: firebrick;
+}
+
+.p2 {
+	color: rgba(248, 244, 0, 0.966); 
+}
+
+.p1 {
+	color: #184ea2;
+}
+
+
+#f1logo {
+	width: 15%;
+	height: auto;
+	position: fixed;
+  	bottom: 20px;
+  	right: 10px;
+}
+
 
 
 
